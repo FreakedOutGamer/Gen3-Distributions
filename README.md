@@ -17,7 +17,7 @@ island that is otherwise unreachable.
 
 | ROM | Gift | Games | Region |
 | --- | --- | --- | --- |
-| `Aurora Ticket (USA) (Emerald).gba` | Aurora Ticket: Birth Island, Deoxys | Emerald | USA |
+| `Aurora Ticket (USA) (Emerald).gba` | Aurora Ticket: Birth Island, Deoxys | FireRed, LeafGreen, Emerald | USA |
 | `Aurora Ticket (Europe).gba` | Aurora Ticket: Birth Island, Deoxys | FireRed, LeafGreen, Emerald | Europe |
 | `Mystic Ticket (USA).gba` | Mystic Ticket: Navel Rock, Lugia and Ho-Oh | FireRed, LeafGreen, Emerald | USA |
 | `Mystic Ticket TGCWC 2005 (USA).gba` | Mystic Ticket, from the 2005 Trading Card Game World Championships | FireRed, LeafGreen, Emerald | USA |
