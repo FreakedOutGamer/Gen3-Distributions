@@ -38,6 +38,7 @@ These send event Pokémon. Each ROM shows a menu of the Pokémon it carries.
 - **Two Game Boy Advance systems** (GBA, GBA SP or Game Boy Player) and a
   **GBA link cable**. The Nintendo DS and DS Lite have no link port, so they
   can't be used.
+- **Two Wireless Adapters** to receive the event tickets!
 - **A GBA flashcart** to run the distribution ROM on one of the systems.
 - **Your game cartridge** in the other system.
 
